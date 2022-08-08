@@ -1,4 +1,4 @@
-# <div align="center">Las 7 y media en Javascript - Dia 7 </div>  
+# <div align="center">Contador de Clicks - Dia 7 </div>  
 
 Creamos un programa sencillito que cuente cuantos click podemos hacer en 1 minuto
   
